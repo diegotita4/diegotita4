@@ -17,9 +17,9 @@ Work code is confidential, so the repositories below are academic and personal p
 | Project | What it does | Highlights |
 |---|---|---|
 | [Sector Rotation Strategy (ML)](https://github.com/diegotita4/PAP-ERS) | Classifies economic-cycle phases from four leading indicators to rotate sectors | MLP (scikit-learn): 88% accuracy, weighted F1 0.88; backtested against the S&P 500 |
-| [Asset Allocation Backtesting](https://github.com/diegotita4/PAP-QAA_strategies) | Streamlit dashboard that backtests quantitative portfolio strategies | 11 strategies, 3 optimizers (SLSQP, Monte Carlo with Optuna, COBYLA), coded from scratch |
-| [Data Coding Challenges](https://github.com/diegotita4/data-coding-challenges) | Documented HackerRank solutions | 31 T-SQL and 7 Python problems, each with a summary and approach |
+| [Asset Allocation Backtesting](https://github.com/diegotita4/PAP-QAA-strategies) | Streamlit dashboard that backtests quantitative portfolio strategies | 11 strategies, 3 optimizers (SLSQP, Monte Carlo with Optuna, COBYLA), coded from scratch |
 | [Credit Approval Model](https://github.com/diegotita4/credit-approval-model) | Predicts credit application approval from four applicant financial variables | Logistic regression: ROC AUC 0.78 on ~18k hold-out applications; benchmarked against random forest, XGBoost and a neural network |
+| [Data Coding Challenges](https://github.com/diegotita4/data-coding-challenges) | Documented HackerRank solutions | 31 T-SQL and 7 Python problems, each with a summary and approach |
 
 ## Tech stack
 
