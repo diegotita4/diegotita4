@@ -1,90 +1,39 @@
+# Hi, I'm Diego (Tita) 👋
 
-# 👋 Hi, I’m Diego — Data Analyst | Python • SQL • Power BI | Machine Learning, Automation & AI · Financial Engineer (ITESO)
+**Data Analyst | Python • SQL • Power BI | Machine Learning, Automation & AI**
 
-Welcome to my GitHub.
+Financial Engineer (ITESO) working as a Process Engineer (Data Analyst) at Ryder, on the logistics implementation of HP's new distribution centers in the US. I turn operational and financial data into Power BI reports, Python models and automations that save real hours.
 
-I’m a **Financial Engineer** with a strong focus on **Data Analytics, Data Science, and Applied Machine Learning**, particularly in **financial and business contexts**.  
-I enjoy turning messy data into structured insights, automating analytical processes, and building models that actually support decision-making.
+## At work
 
-This profile is both my **professional portfolio** and my **learning lab**.
+- Built a Power BI report that consolidates 6 tracking sources into a star schema refreshed 5 times a day, giving project leads and PMs visibility of status and blockers.
+- Automated a backlog report for 22 HP customers with Power Automate and Office Scripts, removing ~3 hours of manual work per week.
+- Test end-to-end logistics scenarios in SAP S/4HANA, TestRail and SEEBURGER (B2B/EDI).
 
----
+Work code is confidential, so the repositories below are academic and personal projects.
 
-## 🧠 What I do
+## Featured projects
 
-- 📊 Data analysis and statistical modeling  
-- 🤖 Machine Learning applied to real-world datasets  
-- 💳 Credit risk modeling and financial analytics  
-- ⚙️ Process automation using Python & SQL  
-- 📈 Data visualization and storytelling with Power BI  
-- 🧪 Continuous learning in data & AI
+| Project | What it does | Highlights |
+|---|---|---|
+| [NYRA Racing Analytics](https://github.com/diegotita4/nyra-racing-analytics) | Pacing, fatigue and betting-market analysis of NYRA's 2019 season | Python, DuckDB, SQL star schema, statsmodels, 4-page Power BI dashboard |
+| [Sector Rotation Strategy (ML)](https://github.com/diegotita4/PAP-ERS) | Classifies economic-cycle phases from four leading indicators to rotate sectors | MLP (scikit-learn): 88% accuracy, weighted F1 0.88; backtested against the S&P 500 |
+| [Asset Allocation Backtesting](https://github.com/diegotita4/PAP-QAA_strategies) | Streamlit dashboard that backtests quantitative portfolio strategies | 11 strategies, 3 optimizers (SLSQP, Monte Carlo with Optuna, COBYLA), coded from scratch |
+| [Credit Scoring Model](https://github.com/diegotita4/credit-scoring-model) | Classifies clients by creditworthiness | Logistic regression, decision tree, random forest, XGBoost and a neural network |
+| [Data Coding Challenges](https://github.com/diegotita4/data-coding-challenges) | Documented HackerRank solutions | 31 T-SQL and 7 Python problems, each with a summary and approach |
 
----
+## Tech stack
 
-## 🛠️ Tech Stack
+- **Python:** pandas, NumPy, scikit-learn, XGBoost, statsmodels, matplotlib, seaborn, Streamlit, Optuna
+- **SQL:** T-SQL, DuckDB
+- **BI & automation:** Power BI (DAX, Power Query), Power Automate, Office Scripts, Excel
+- **Tools:** Git, GitHub, SAP S/4HANA, TestRail
 
-**Programming & Data**
-- Python: `pandas`, `NumPy`, `matplotlib`, `scikit-learn`
-- SQL
+## Certifications
 
-**Analytics & BI**
-- Power BI (Power Query & DAX)
-- Excel (advanced formulas & analysis)
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300), 2026
+- HackerRank SQL (Advanced)
 
-**Core Concepts**
-- Data cleaning & feature engineering  
-- Predictive modeling & validation  
-- Financial modeling & quantitative strategies  
-- Reproducible analysis & documentation  
+## Connect
 
----
-
-## 📂 Featured Projects
-
-### 💳 **Project3CreditModels**
-Development of predictive models for **credit scoring and credit risk assessment**, applying machine learning techniques to financial datasets.  
-Focus on model performance, interpretability, and business relevance.
-
----
-
-### 📊 **PAP-QAA_strategies**
-**Quantitative Asset Allocation strategies** aimed at optimizing portfolio performance using data-driven approaches and financial theory.
-
----
-
-### 🔄 **PAP-ERS**
-Exploration of **financial and economic strategies**, combining analytical thinking, structured experimentation, and applied modeling.
-
----
-
-### 🧠 **coding_challenges**
-My personal **learning and practice portfolio**.  
-A growing collection of Python exercises, data problems, and algorithmic challenges designed to strengthen fundamentals and problem-solving skills.
-
-> This repository represents my belief that **consistent practice beats passive learning**.
-
----
-
-## 🎯 Professional Interests
-
-I’m particularly interested in roles related to:
-- Data Analyst  
-- Data Scientist  
-- Data Engineer  
-- AI / ML Engineer
-- Applied AI & Generative AI
-
----
-
-## 📫 Let’s connect
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/diegotita4  
-
-Feel free to explore the repositories below, open issues, or reach out.
-
----
-
-## 🌱 Closing note
-
-I see data as a bridge between **intuition and evidence**.  
-Every project here is part of a long-term journey: learning deeply, building responsibly, and growing one commit at a time.
+[LinkedIn](https://www.linkedin.com/in/diegotita4)
