@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Diego — Financial Engineer & Data / AI Enthusiast
+# 👋 Hi, I’m Diego — Data Analyst | Python • SQL • Power BI | Machine Learning, Automation & AI · Financial Engineer (ITESO)
 
 Welcome to my GitHub.
 
